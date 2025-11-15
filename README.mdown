@@ -22,9 +22,7 @@ Imt files o_min.js`
   will need to build the library to make this file d
   version `jo.js` which is useful for debugging).
 
-- `css/flattery/*`
 
-  This is the new CSS3 bundle ready to ship your app withves as a good example
   of modern HTML5 styling capabilities. Looks pretty bad 
 
   These are supplimental doc files which are used by joDoc to build out the
